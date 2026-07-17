@@ -1,0 +1,9 @@
+<component name="libraryTable">
+    <library name="HospitalAuthSystem">
+        <CLASSES>
+            <root url="jar://$PROJECT_DIR$/HospitalAuthSystem.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+    </library>
+</component>
